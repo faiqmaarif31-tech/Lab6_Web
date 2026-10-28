@@ -44,14 +44,13 @@ Lab6Web/
 
 Memilih elemen HTML berdasarkan ID menggunakan `getElementById()`, kemudian mengubah judul dan paragraf menggunakan `textContent`.
 
-### Latihan 1 — Mengubah Teks dengan DOM
-Screenshots/Latihan1.png
+**Hasil:**Screenshots/Latihan1.png
 
 ### Latihan 2 — Event Click
 
 Menggunakan `addEventListener()` untuk menjalankan fungsi ketika tombol diklik. Program menampilkan pesan beserta waktu saat tombol ditekan.
 
-**Hasil:** Pesan dan waktu diperbarui setiap kali tombol diklik.
+**Hasil:** Screenshots/Latihan2.png
 
 ### Latihan 3 — Mengubah Kelas dan Gaya CSS
 
