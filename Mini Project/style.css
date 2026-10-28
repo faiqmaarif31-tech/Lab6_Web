@@ -1,0 +1,94 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 25px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #173f75;
+}
+
+h2 {
+    color: #173f75;
+    font-size: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.info {
+    font-size: 13px;
+    color: #555;
+}
+
+button {
+    margin-top: 15px;
+    margin-right: 5px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #2463a6;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #173f75;
+}
+
+#pesan {
+    font-weight: bold;
+}
+
+.ringkasan {
+    margin-top: 25px;
+    padding: 15px;
+    background-color: #f4f7fb;
+    border-left: 4px solid #3478c8;
+    border-radius: 5px;
+    overflow-wrap: anywhere;
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 18px;
+        margin: 5px auto;
+    }
+
+    button {
+        width: 100%;
+    }
+}
+.sembunyi {
+    display: none;
+}

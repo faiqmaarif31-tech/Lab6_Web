@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pendaftaran Workshop</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Pendaftaran Workshop</h1>
+        <p>Silakan isi formulir pendaftaran di bawah ini.</p>
+
+        <form id="formWorkshop" novalidate>
+            <label for="nama">Nama lengkap</label>
+            <input type="text" id="nama" maxlength="50"
+                   placeholder="Masukkan nama lengkap">
+
+            <p>Jumlah karakter: <span id="jumlahKarakter">0</span></p> 
+
+            <label for="email">Email</label>
+            <input type="email" id="email"
+                   placeholder="contoh@email.com">
+
+            <label for="sesi">Pilih sesi workshop</label>
+            <select id="sesi">
+                <option value="">-- Pilih sesi --</option>
+                <option value="HTML dan CSS">HTML dan CSS</option>
+                <option value="JavaScript DOM">JavaScript DOM</option>
+                <option value="Web Development">Web Development</option>
+            </select>
+
+            <p id="sesiDipilih">Sesi belum dipilih.</p>
+            
+            <label for="sesi">Pilih Sesi Workshop:</label>
+
+    <select id="sesi" name="sesi">
+    <option value="">-- Pilih Sesi --</option>
+    <option value="Pagi">Sesi Pagi</option>
+    <option value="Siang">Sesi Siang</option>
+    <option value="Sore">Sesi Sore</option>
+</select>
+
+<p id="sesiDipilih">Belum ada sesi yang dipilih.</p>
+
+            <button type="submit">Daftar Workshop</button>
+            <button type="reset" id="tombolReset">Reset</button>
+        </form>
+
+        <p id="pesan" aria-live="polite"></p>
+
+        <div class="ringkasan">
+            <h2>Ringkasan Pendaftaran</h2>
+            <p>Nama: <span id="ringkasanNama">-</span></p>
+            <p>Email: <span id="ringkasanEmail">-</span></p>
+            <p>Sesi: <span id="ringkasanSesi">-</span></p>
+        </div>
+    </div>
+    <!-- Eksperimen Mandiri 4 -->
+<h3>Eksperimen Tampil dan Sembunyi</h3>
+
+<p id="paragrafEksperimen">
+    Ini adalah paragraf untuk eksperimen DOM.
+</p>
+
+<button id="tombolSembunyi" type="button">
+    Sembunyikan Paragraf
+</button>
+</body>
+</html>
