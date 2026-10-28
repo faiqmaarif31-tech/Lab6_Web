@@ -44,8 +44,8 @@ Lab6Web/
 
 Memilih elemen HTML berdasarkan ID menggunakan `getElementById()`, kemudian mengubah judul dan paragraf menggunakan `textContent`.
 
-### Hasil
-!(Screenshots/Latihan1.png)
+### Latihan 1 — Mengubah Teks dengan DOM
+Screenshots/Latihan1.png
 
 ### Latihan 2 — Event Click
 
