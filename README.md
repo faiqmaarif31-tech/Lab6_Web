@@ -74,7 +74,7 @@ Membuat form pendaftaran yang berisi nama lengkap, email, dan usia. Validasi dil
 
 Membuat aplikasi daftar tugas dengan fitur menambahkan tugas dan menandai tugas sebagai selesai.
 
-**Hasil:** Pengguna dapat menambahkan tugas, menandai tugas selesai, dan membatalkan status selesai.
+**Hasil:** Screenshots/Latihan6.png
 
 ## F. Mini Project — Form Pendaftaran Workshop
 
