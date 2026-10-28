@@ -44,8 +44,7 @@ Lab6Web/
 
 Memilih elemen HTML berdasarkan ID menggunakan `getElementById()`, kemudian mengubah judul dan paragraf menggunakan `textContent`.
 
-**Hasil:**
-Screenshots/Latihan1.png
+**Hasil:** Screenshots/Latihan1.png
 
 ### Latihan 2 — Event Click
 
@@ -57,7 +56,7 @@ Menggunakan `addEventListener()` untuk menjalankan fungsi ketika tombol diklik. 
 
 Menggunakan `classList.toggle()` untuk menambahkan atau menghapus kelas CSS pada paragraf.
 
-**Hasil:** Teks berubah warna menjadi biru, memiliki latar belakang biru muda, garis biru di sebelah kiri, dan ukuran huruf lebih besar.
+**Hasil:** Screenshots/Latihan3.png
 
 ### Latihan 4 — Event Input dan Penghitung Karakter
 
