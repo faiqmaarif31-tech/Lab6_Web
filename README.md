@@ -62,7 +62,7 @@ Menggunakan `classList.toggle()` untuk menambahkan atau menghapus kelas CSS pada
 
 Membuat input teks dan penghitung karakter menggunakan event `input`.
 
-**Hasil:** Jumlah karakter bertambah atau berkurang secara langsung saat pengguna mengetik, menghapus, atau menempelkan teks.
+**Hasil:** Screenshots/Latihan4.png
 
 ### Latihan 5 — Validasi Form Pendaftaran
 
