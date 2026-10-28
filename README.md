@@ -68,7 +68,7 @@ Membuat input teks dan penghitung karakter menggunakan event `input`.
 
 Membuat form pendaftaran yang berisi nama lengkap, email, dan usia. Validasi dilakukan untuk memastikan nama diisi, email valid, serta usia berupa bilangan bulat antara 17 dan 100.
 
-**Hasil:** Program menampilkan pesan kesalahan jika input tidak sesuai dan pesan keberhasilan jika semua input valid.
+**Hasil:** Screenshots/Latihan5.png
 
 ### Latihan 6 — Daftar Tugas Sederhana (To-do List)
 
