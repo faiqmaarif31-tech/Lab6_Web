@@ -85,7 +85,7 @@ Mengembangkan halaman pendaftaran workshop dengan minimal tiga fungsi interaktif
 3. Pesan kesalahan dan pesan sukses.
 4. Tombol reset atau hapus input.
 
-Kode program dipisahkan ke dalam file HTML, CSS, dan JavaScript agar lebih terstruktur.
+**Hasil**Screenshots/Mini Proyek.png
 
 ## G. Pengujian
 
