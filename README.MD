@@ -44,8 +44,7 @@ Lab6Web/
 
 Memilih elemen HTML berdasarkan ID menggunakan `getElementById()`, kemudian mengubah judul dan paragraf menggunakan `textContent`.
 
-**Hasil:** Judul dan pesan pada halaman berubah sesuai teks yang ditentukan dalam JavaScript.
-
+**Hasil:** https://github.com/faiqmaarif31-tech/Lab6_Web/blob/52bf0f7a24e89b3dada7261a451b921ac16eb19f/Screenshots/Latihan1.png
 ### Latihan 2 — Event Click
 
 Menggunakan `addEventListener()` untuk menjalankan fungsi ketika tombol diklik. Program menampilkan pesan beserta waktu saat tombol ditekan.
